@@ -1,0 +1,6 @@
+l = int(input("Enter value of l = "))
+b = int(input("Enter value of b = "))
+A = (l*b)
+P = 2*(l+b)
+print("Area of Rectangle =", A)
+print("Perimeter of Rectangle =", P)

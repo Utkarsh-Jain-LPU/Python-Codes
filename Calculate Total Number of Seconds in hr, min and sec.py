@@ -1,0 +1,5 @@
+hr = int(input("Enter no. of Hours = "))
+m = int(input("Enter no. of Minutes = "))
+sec = int(input("Enter no. of Seconds = "))
+Tsec = ((hr*60*60)+(m*60)+(sec))
+print("Total no. of Seconds in", hr, "hours,", m, "minutes and", sec, "seconds =", Tsec, "sec")
