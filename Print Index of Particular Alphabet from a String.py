@@ -1,0 +1,5 @@
+a=input("Enter any String = ")
+index1=a.find("a")
+print("Index of first 'a' is",index1)
+index2=a.rfind("a")
+print("Index of Last 'a' is",index2)
